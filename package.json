@@ -1,0 +1,30 @@
+{
+  "name": "editz",
+  "private": true,
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "jsoning": "^0.5.13",
+    "monaco-editor": "^0.20.0",
+    "prettier": "^2.0.5",
+    "wetty": "^1.3.2"
+  },
+  "description": "An amazing code editor, with sooooooooo many features.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngchief-btw/Editz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "All rights reserved.",
+  "bugs": {
+    "url": "https://github.com/youngchief-btw/Editz/issues"
+  },
+  "homepage": "https://github.com/youngchief-btw/Editz#readme"
+}

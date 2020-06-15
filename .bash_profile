@@ -1,0 +1,1 @@
+alias editz="./cli.sh"

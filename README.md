@@ -15,3 +15,5 @@ It's over [here](https://editz.tk)
 [Glitch Ready-to-Code](https://glitch.com/edit/#!/remix/editz-editor)
 
 [Glitch Staging Ready-to-Code](https://staging.glitch.com/edit/#!/remix/editz-editor)
+
+[![Run on Repl.it](https://repl.it/badge/github/youngchief-btw/Editz)](https://repl.it/github/youngchief-btw/Editz)

@@ -4,7 +4,7 @@ An amazing code editor, with sooooooooo many features.
 
 ### Where is located?
 
-It's over [here](https://editz.tk)
+It's over [here](https://editz.youngchief.tk)
 
 ### Contributing
 
